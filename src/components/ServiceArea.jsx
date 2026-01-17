@@ -15,9 +15,12 @@ export default function ServiceArea() {
                 <div className="text-center mb-16">
                     <p className="text-gold text-sm font-semibold uppercase tracking-wider mb-2">Where We Serve</p>
                     <h2 className="text-4xl sm:text-5xl font-heading font-bold text-white mb-4 relative inline-block">
-                        Ottawa & Surrounding Areas
+                        Serving Ottawa & Surrounding Communities
                         <span className="absolute -bottom-3 left-1/2 transform -translate-x-1/2 w-20 h-1 bg-gold rounded-full"></span>
                     </h2>
+                    <p className="text-gray-300 text-lg mt-6 max-w-3xl mx-auto">
+                        Local, trusted cleaning services throughout the Ottawa region. We're proud to serve homeowners across the city and neighboring communities.
+                    </p>
                 </div>
 
                 {/* Content Grid */}

@@ -2,7 +2,7 @@ const services = [
     {
         title: 'House Cleaning',
         image: '/house-cleaning.png',
-        description: 'Transform your home into a pristine sanctuary with our comprehensive house cleaning services. We handle every detail with care and professionalism.',
+        description: 'Transform your Ottawa home into a pristine sanctuary with our comprehensive residential cleaning services. Perfect for busy families and professionals in Kanata, Barrhaven, and Orleans. We handle every detail with care and professionalism.',
         features: [
             'Deep cleaning of all rooms',
             'Kitchen and bathroom sanitization',
@@ -15,7 +15,7 @@ const services = [
     {
         title: 'Inside Window Cleaning',
         image: '/window-cleaning.png',
-        description: 'Let the light shine through with our professional inside window cleaning service. Crystal-clear windows that enhance your home\'s beauty.',
+        description: 'Let natural light brighten your Ottawa home with our professional inside window cleaning service. Streak-free, crystal-clear windows that enhance your property\'s curb appeal and interior ambiance.',
         features: [
             'Streak-free window cleaning',
             'Window sills and frames',
@@ -35,9 +35,12 @@ export default function Services() {
                 <div className="text-center mb-16">
                     <p className="text-gold text-sm font-semibold uppercase tracking-wider mb-2">What We Offer</p>
                     <h2 className="text-4xl sm:text-5xl font-heading font-bold text-black mb-4 relative inline-block">
-                        Our Premium Services
+                        Ottawa's Premier House & Window Cleaning Services
                         <span className="absolute -bottom-3 left-1/2 transform -translate-x-1/2 w-20 h-1 gradient-gold rounded-full"></span>
                     </h2>
+                    <p className="text-gray-700 text-lg mt-6 max-w-3xl mx-auto">
+                        Professional residential cleaning services tailored to Ottawa homes. We use eco-friendly products and proven techniques to deliver exceptional results every time.
+                    </p>
                 </div>
 
                 {/* Services Grid */}

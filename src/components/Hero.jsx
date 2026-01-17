@@ -18,14 +18,13 @@ export default function Hero() {
             {/* Content */}
             <div className="relative z-20 text-center max-w-4xl px-4 sm:px-6 lg:px-8 animate-fadeInUp">
                 <h1 className="text-5xl sm:text-6xl lg:text-7xl font-heading font-bold text-white mb-4 drop-shadow-lg">
-                    Premium Cleaning Services in Ottawa
+                    Professional House Cleaning Services in Ottawa
                 </h1>
                 <p className="text-2xl sm:text-3xl text-gold-light mb-6 font-light">
-                    Where Excellence Meets Elegance
+                    Trusted, Reliable & Eco-Friendly Cleaning for Your Home
                 </p>
                 <p className="text-lg sm:text-xl text-white mb-12 opacity-90 max-w-2xl mx-auto">
-                    Experience the difference of professional cleaning with Blossom Cleaning and Services.
-                    We bring sparkle and freshness to your home.
+                    Experience premium residential cleaning services in Ottawa and surrounding areas. From deep house cleaning to crystal-clear windows, we bring sparkle and freshness to every corner of your home.
                 </p>
 
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
