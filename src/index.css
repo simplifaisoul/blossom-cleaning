@@ -10,7 +10,9 @@
   }
 
   body {
-    @apply font-body text-gray-800 bg-white;
+    font-family: 'Inter', sans-serif;
+    color: #333333;
+    background-color: #FFFFFF;
   }
 
   h1,
@@ -19,7 +21,9 @@
   h4,
   h5,
   h6 {
-    @apply font-heading font-bold text-black;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    color: #0A0A0A;
   }
 }
 
